@@ -1,0 +1,61 @@
+html{
+	height: 100%;
+}
+a{
+	text-decoration: none;
+}
+body{
+	margin: 0;
+}
+.menu{
+	padding: 30px;
+	margin-left: 5%;
+	color: white;
+	font-size: 20px;
+}
+.i{
+	color: black;
+	margin: 30px;
+	font-family: arial black;
+	font-size: 30px;
+}
+.i1{
+	color: black;
+	margin: 30px;
+	font-family: arial;
+	font-size: 20px;
+}
+.i2{
+	text-align: right;
+	color: white;
+	margin: 30px;
+	font-family: arial black;
+	font-size: 30px;
+}
+.h{
+	font-family: arial black;
+	font-size: 25px;
+}
+.p{
+	font-family: arial;
+	font-size: 20px;
+}
+.s{
+	margin-left: 20%;
+	position: relative;
+}
+.s1{
+	margin-left: -50%;
+	color: white;
+	font-size: 40px;
+	font-family: arial black;
+	position: relative;
+}
+.fon{
+	background: #191c1e;
+	color: white;
+	font-family: courier;
+}
+.b{
+	color: black;
+}
